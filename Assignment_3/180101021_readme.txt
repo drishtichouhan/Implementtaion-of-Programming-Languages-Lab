@@ -1,0 +1,7 @@
+To compile and run the program:
+
+lex -i 180101021_lexer.l
+g++ 180101021_driverfile.c lex.yy.c -lfl
+./a.out < input.p
+
+input.p is the input pascal program 
