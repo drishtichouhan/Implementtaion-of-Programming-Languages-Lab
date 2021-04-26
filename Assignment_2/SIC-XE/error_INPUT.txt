@@ -1,0 +1,89 @@
+************PASS1************
+Line: 225 : Duplicate symbol for 'MAXLEN'. Previously defined at 01000
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+Line: 165Can't fit into program counter based or base regStruct based addressing.
+
+
+************PASS2************
+
+
+************PASS2************
+
+
+************PASS2************
+
+
+************PASS2************
+
+
+************PASS2************
+
+
+************PASS2************
+
+
+************PASS2************
+
+
+************PASS2************
+
+
+************PASS2************

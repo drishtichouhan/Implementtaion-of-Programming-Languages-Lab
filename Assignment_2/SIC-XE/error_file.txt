@@ -1,0 +1,2 @@
+-------------------------PASS1-------------------------
+Line: 225 : Duplicate symbol for 'MAXLEN'. Previously defined at 01000
